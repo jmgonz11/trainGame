@@ -1,0 +1,22 @@
+
+.btn-primary {
+    background-color: #1c077a;
+    border-color: #fff;
+    font-weight: bold;
+}
+
+
+
+.jumbotron {
+    background-color: #0414a7;
+    color: #fff;
+    background-position-y: 10%;
+    color: #fff;
+   
+}
+
+div.panel-body {
+    background-image: url('../images/express.jpg');
+    color: #fff;
+}
+
